@@ -10,21 +10,27 @@ Surveys the state of the art in Bayesian methods and their applications. Discuss
 
 ### Problem Set 1
 
+Data : Brown Eyes Genes Probability, Doctor's Office Waiting Times, Plane Crashes & Fatalities
+
+Analysis : Basu's Elephant Problem, Review of Probability Distributions, Multivariate Normal, Exponential Families, Posterior Derivations, Credible/Posterior Intervals, Normalizing Constants, Independence, Law of the Unconcious Statistician
 
 ### Problem Set 2
 
+Data : Exact v. Rounded Measurements, Plane Crashes & Fatalities, Bioassay
+
+Analysis : Independence in Priors/Posteriors, Method of Moments as Priors, Grid Sampling, Jeffrey's Prior, Informative v Noninformative Priors, Various Prior/Likelihood Combinations
 
 ### Problem Set 3
 
-Data : 
+Data : Eight Schools Test Scores, Bicycle / Car Traffic, Plane Crashes & Fatalities, Rat Tumor Data, County Level Radon Measurements
 
-Analysis : Posterior Predictive Checks, Test Statistics, 
+Analysis : Hierarchical Models, Exchangeability, de Finetti's Theorem, Beta-Binomial Model, Posterior Predictive Checks, Test Statistics, Power Transformed Normal Model
 
 ### Problem Set 4
 
 Data : Bioassay, Species Sightings, Marquardt and Snee (1975) Bayesian Ridge Regression
 
-Analysis : Importance Sampling, Varying Rejection Control, Rejection Sampling, Importance Re-Sampling, Effective Sample Size, Metropolis Algorithm, Hierarchical Models, Gibbs Sampling, Gaussian Mixture Models, EM Algorithm, STAN
+Analysis : Importance Sampling, Varying Rejection Control, Rejection Sampling, Importance Re-Sampling, Effective Sample Size, Markov Chain Monte Carlo, Metropolis Hastings Algorithm, Gibbs Sampling, Gaussian Mixture Models, EM Algorithm, STAN
 
 ### Final Project
 
