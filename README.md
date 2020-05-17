@@ -22,6 +22,9 @@ Surveys the state of the art in Bayesian methods and their applications. Discuss
 
 ### Final Project
 
+Data : Simulated data from my outside of class research work, simulations representative of the 2015 Scott County, Indiana HIV outbreak.
+
+Analysis : Bayesian Lasso, Variable Selection, Gibbs Sampling Algorithm
 
 # Author(s)
 
