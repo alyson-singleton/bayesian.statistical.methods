@@ -16,9 +16,15 @@ Surveys the state of the art in Bayesian methods and their applications. Discuss
 
 ### Problem Set 3
 
+Data : 
+
+Analysis : Posterior Predictive Checks, Test Statistics, 
 
 ### Problem Set 4
 
+Data : Bioassay, Species Sightings, Marquardt and Snee (1975) Bayesian Ridge Regression
+
+Analysis : Importance Sampling, Varying Rejection Control, Rejection Sampling, Importance Re-Sampling, Effective Sample Size, Metropolis Algorithm, Hierarchical Models, Gibbs Sampling, Gaussian Mixture Models, EM Algorithm, STAN
 
 ### Final Project
 
